@@ -6,4 +6,4 @@ print(id(Flag))
 Age = None
 print(Age)
 print(type(Age))
-print(id(Age))
+print(id(Age)).
